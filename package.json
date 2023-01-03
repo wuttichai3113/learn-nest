@@ -17,7 +17,7 @@
     "@nestjs/core": "^8.0.0",
     "@nestjs/microservices": "^8.4.4",
     "@nestjs/platform-express": "^8.0.0",
-    "@nestjs/typeorm": "^8.0.3",
+    "@nestjs/typeorm": "^9.0.0",
     "@nestjsi/class-validator": "^0.1.4",
     "@sendgrid/mail": "^7.7.0",
     "@types/humps": "^2.0.1",
